@@ -1,0 +1,23 @@
+{
+  "name": "01.Hello",
+  "version": "1.0.0",
+  "description": "[노드사이트](https://nodejs.org)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahyunk/2020-hh-node4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahyunk/2020-hh-node4/issues"
+  },
+  "homepage": "https://github.com/hahyunk/2020-hh-node4#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
